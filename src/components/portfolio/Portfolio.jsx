@@ -47,17 +47,17 @@ const Portfolio = () => {
       description:
         "Developed a Parkinson’s Daily Diary web application to help users track daily health activities, symptoms, and routines through a simple, interface.",
       technologies: "Next.js|Supabase |Typescript |",
-      link: "https://parkinson-daily-diary.web.app/",
+      link: "https://parkinson-care-pi.vercel.app",
       github: "https://github.com/a95-shah",
     },
     {
       id: 5,
-      title: "Tripletta Pizza website",
+      title: "Codematics Full Stack Website",
       img: IMG5,
       description:
-        "Developed a modern and responsive pizza restaurant website featuring webgl and gsap for animation.",
-      technologies: "React| GSAP | Javascript",
-      link: "https://www.triplettapizza.com/",
+        "Developed a modern and responsive comapny website featuring full backend in NEXT.JS with propper dashboard for data input, (still underdevelopment)",
+      technologies: "Next.js|Node.js| MongoDB | Cloudinary",
+      link: "https://codematics-co.vercel.app/",
       github: "https://github.com/a95-shah",
     },
     {
