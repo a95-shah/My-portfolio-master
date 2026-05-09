@@ -43,7 +43,7 @@ const Portfolio = () => {
     {
       id: 4,
       title: "Parkinson Daily Dairy",
-      img: IMG3,
+      img: IMG5,
       description:
         "Developed a Parkinson’s Daily Diary web application to help users track daily health activities, symptoms, and routines through a simple, interface.",
       technologies: "Next.js|Supabase |Typescript |",
@@ -53,9 +53,9 @@ const Portfolio = () => {
     {
       id: 5,
       title: "Codematics Full Stack Website",
-      img: IMG5,
+      img: IMG3,
       description:
-        "Developed a modern and responsive comapny website featuring full backend in NEXT.JS with propper dashboard for data input, (still underdevelopment)",
+        "Developed a modern and responsive comapny website featuring full backend in NEXT.JS with propper dashboard for data management.",
       technologies: "Next.js|Node.js| MongoDB | Cloudinary",
       link: "https://codematics-co.vercel.app/",
       github: "https://github.com/a95-shah",
